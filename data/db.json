@@ -36,6 +36,27 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Pierogi",
+      "ingredients": [
+        "mąka",
+        "woda"
+      ],
+      "method": "Zrobić pierogi",
+      "cookingTime": "30 minutes",
+      "id": "XSorNl4"
+    },
+    {
+      "title": "Test",
+      "ingredients": [
+        "test1",
+        "test2",
+        "test3"
+      ],
+      "method": "JKLHKIhsakdak;lhdkjha;l hka;hdk;jasfd;gakfgkasdfkjdsagfdf",
+      "cookingTime": "23 minutes",
+      "id": "lT-mLIO"
     }
   ]
 }
